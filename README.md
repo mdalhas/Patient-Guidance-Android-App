@@ -21,8 +21,17 @@ The Patient Guidance Android App is designed to provide patients with a convenie
 5. Contact administrators for support or additional services.
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![App Screenshot](https://github.com/mdalhas/Patient-Guidance-Android-App/blob/main/screenshot/a_dashboard_1.PNG)
+![App Screenshot](https://github.com/mdalhas/Patient-Guidance-Android-App/blob/main/screenshot/a_2.PNG)
+![App Screenshot](https://github.com/mdalhas/Patient-Guidance-Android-App/blob/main/screenshot/a_3.PNG)
+![App Screenshot](https://github.com/mdalhas/Patient-Guidance-Android-App/blob/main/screenshot/a_4.PNG)
+![App Screenshot](https://github.com/mdalhas/Patient-Guidance-Android-App/blob/main/screenshot/a_5.PNG)
+![App Screenshot](https://github.com/mdalhas/Patient-Guidance-Android-App/blob/main/screenshot/a_6.PNG)
+![App Screenshot](https://github.com/mdalhas/Patient-Guidance-Android-App/blob/main/screenshot/a_6.PNG)
+![App Screenshot](https://github.com/mdalhas/Patient-Guidance-Android-App/blob/main/screenshot/a_7.PNG)
+![App Screenshot](https://github.com/mdalhas/Patient-Guidance-Android-App/blob/main/screenshot/a_8.PNG)
+![App Screenshot](https://github.com/mdalhas/Patient-Guidance-Android-App/blob/main/screenshot/a_9.PNG)
+
 
 ## Technologies Used
 - Java
